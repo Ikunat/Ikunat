@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ikunat
-- 👀 I’m interested in Web/Apps Dev and graphic design.
+- 👀 I’m interested in Web & App development and graphic design.
 - 🌱 I’m currently learning React, Angular, Node.js, GraphQL, Docker, and so on...
 - 💞️ I’m looking to collaborate on anything cool !
 - 📫 You can reach me at francoisdeleau.com 👽
