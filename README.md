@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ikunat... but you can call me Tanuki !
 - 👀 I’m interested in Web & App development and Graphic design.
-- 🌱 I’m currently learning React, Angular, Node.js, GraphQL, Docker, and so on...
+- 🌱 I’m currently learning React, Angular, Express, GraphQL, Docker, and so on...
 - 💞️ I’m looking to collaborate on anything cool !
 - 📫 You can reach me at francoisdeleau.com 👽
 
