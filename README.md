@@ -7,7 +7,7 @@
     
 ### Portfolio
 
-    [francoisdeleau.com](https://francoisdeleau.com/)
+    [francoisdeleau.com](https://francoisdeleau.com)
 
 <!---
 Ikunat/Ikunat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
