@@ -1,5 +1,6 @@
 # About me
 
+
     Hi, I’m François... but you can call me Tanuki 👋
 
     I’m interested in Web & App development and Graphic design.
@@ -7,7 +8,7 @@
     
 ### Portfolio
 
-    [francoisdeleau.com](https://francoisdeleau.com)
+[francoisdeleau.com](https://francoisdeleau.com/)
 
 <!---
 Ikunat/Ikunat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
